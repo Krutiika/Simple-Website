@@ -43,19 +43,9 @@ WEB Development_Project/
 
 ---
 
-## 💡 Future Enhancements
-
-- Backend integration (Node.js or Java Spring Boot)
-- Form handling with database (e.g., MySQL)
-- Dynamic content loading via JavaScript
-- Blog/News section for engagement and SEO
-- Location mapping using Google Maps API
-
----
-
 ## 👨‍💻 Author
 
-Crafted with 💙 by a passionate **Java Web Developer**.
+Crafted with 💙 by a passionate **A Master Java Web Developer**.
 
 ---
 
